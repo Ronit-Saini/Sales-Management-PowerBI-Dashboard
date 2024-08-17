@@ -5,6 +5,7 @@ This project addresses the need to improve internet sales reports by transitioni
 
 ### Problem Statement
 **Steven - Sales Manager:**
+
 Hi Ali!
 I hope you are doing well. We need to improve our internet sales reports and want to move from static reports to visual dashboards.
 Essentially, we want to focus on how much we have sold of what products, to which clients, and how it has been over time.
@@ -35,10 +36,10 @@ Let me know if you need anything else!
 Below are the visualizations created as part of the project:
 
 #### 1. Sales Overview Dashboard
-![Sales Overview Dashboard](Screenshot (531).png)
+![Sales Overview Dashboard](https://github.com/Ronit-Saini/Sales_Management/blob/main/Screenshot%20(531).png?raw=true)
 
 #### 2. Customer Sales Performance Dashboard
-![Customer Sales Performance Dashboard](Screenshot (532).png)
+![Customer Sales Performance Dashboard](https://github.com/Ronit-Saini/Sales_Management/blob/main/Screenshot%20(532).png?raw=true)
 
 #### 3. Product Sales Performance Dashboard
-![Product Sales Performance Dashboard](Screenshot (533).png)
+![Product Sales Performance Dashboard](https://github.com/Ronit-Saini/Sales_Management/blob/main/Screenshot%20(533).png?raw=true)
